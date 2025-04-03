@@ -1,4 +1,4 @@
-# Receipt Processor for Fetch
+# Receipt Processor
 
 ## Requirements
 
