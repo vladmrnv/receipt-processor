@@ -4,6 +4,12 @@
 
 - Docker (or run with Go 3.23.4)
 
+## Dependencies
+```go
+require github.com/google/uuid v1.6.0
+```
+Used for generating UUID values for IDs
+
 ## Running with Docker
 1. Clone this repository
 2. Build this Docker Image
